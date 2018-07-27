@@ -8,5 +8,5 @@ Python modules: numpy, scipy
 It was used for calibration of data for this research:http://adsabs.harvard.edu/abs/2016A%26A...588A..89J
 
 You are required to acknowledge the use of this code and also cite the above publication if you use the contents of this repository. 
-Please contact me in case of questions.
+Please contact me in case you had questions.
 
